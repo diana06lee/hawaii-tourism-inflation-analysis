@@ -6,7 +6,6 @@ This project looks into whether or not Hawaii's tourism recovery after COVID-19 
 national average, using the Federal Reserve CPI data and Hawaii Tourism Authority visitor arrival data from 2019-2024.
 
 #Key Finding 
-
 Even though tourism did not recover fully to pre-covid levels (around 7% below 2019 in 2024), Hawaii's inflation tracked 
 closely to the national average throughout the period. This suggests that Hawaii's inflation is driven by the same national forces,
 such as (supply chains, energy) rather than tourism demand specifically. 
